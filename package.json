@@ -1,0 +1,15 @@
+{
+  "name": "sasi-portfolio",
+  "version": "1.0.0",
+  "description": "Sasidhar Borra's Portfolio",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"No tests configured\""
+  },
+  "keywords": ["portfolio"],
+  "author": "Sasidhar Borra",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1"
+  }
+}
