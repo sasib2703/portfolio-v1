@@ -2809,15 +2809,7 @@ body.light-theme nav.dynamic-island {
     box-shadow: 0 12px 30px rgba(0, 0, 0, 0.06);
 }
 
-body.light-theme .nav-links{
 
-    background:#ffffff;
-
-    border-left:1px solid rgba(0,0,0,.08);
-
-    box-shadow:-12px 0 40px rgba(0,0,0,.08);
-
-}
 
 body.light-theme .nav-links a{
 
