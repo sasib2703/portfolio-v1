@@ -76,7 +76,7 @@ AI-powered simulation platform rethinking engineering capability.
 
 ## Live Demo
 
-Add deployed link here.
+https://sasi-portfolio-two.vercel.app/
 
 ---
 
